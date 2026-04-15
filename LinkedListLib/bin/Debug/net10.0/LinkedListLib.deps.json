@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LinkedListLib/1.0.0": {
+        "runtime": {
+          "LinkedListLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
