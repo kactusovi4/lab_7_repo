@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedListLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f826e16046e1f74166947987052ca5fc682b46e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8cd9475ad50d2198d9f208c3c1edefbc984d37a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedListLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedListLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
