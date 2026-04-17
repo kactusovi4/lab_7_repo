@@ -174,14 +174,11 @@ public class ShortSinglyLinkedList : IEnumerable<short>
     /// </summary>
     public void RemoveOddPositions()
     {
-        // Always remove the head (position 1 is odd).
         if (_head == null) return;
 
         _head = _head.Next;
         _count--;
 
-        // Walk through remaining nodes: current is at an even-original position (keep it),
-        // current.Next is at an odd-original position (remove it).
         Node? current = _head;
         while (current != null && current.Next != null)
         {
